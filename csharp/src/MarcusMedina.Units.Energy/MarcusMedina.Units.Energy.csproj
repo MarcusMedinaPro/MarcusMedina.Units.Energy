@@ -6,12 +6,13 @@
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PackageId>MarcusMedina.Units.Energy</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Title>MarcusMedina.Units.Energy</Title>
     <Description>Fluent energy unit conversion — metric, scientific, and US units (J, kWh, eV, BTU, kcal, erg).</Description>
     <Authors>Marcus Medina</Authors>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/MarcusMedinaPro/MarcusMedina.Units.Energy/wiki</PackageProjectUrl>
     <RepositoryUrl>https://github.com/MarcusMedinaPro/MarcusMedina.Units.Energy</RepositoryUrl>
     <PackageTags>energy;units;conversion;fluent;metric;joule;kilowatthour;electronvolt;btu</PackageTags>
     <NoWarn>CS1573;CS1591</NoWarn>
